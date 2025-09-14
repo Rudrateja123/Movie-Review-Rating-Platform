@@ -7,19 +7,21 @@ A responsive movie discovery web app built with HTML, CSS, and vanilla JavaScrip
 
 
 
-### 📸 Screenshots
+## 📸 Screenshots
 
 **Main Search Page**
+
 ![Main Page Screenshot](screenshots/bahubali.png)
 
 **Movie Details & Review Modal**
+
 ![Details Modal Screenshot](screenshots/upendra.png)
 
 
 
 ---
 
-### ## 🚀 Features
+ ## 🚀 Features
 
 * **Movie Search:** Search for any movie using The Movie Database (TMDB) API.
 * **Detailed View:** Click on any movie to see more details like release date, rating, and a full synopsis.
@@ -30,7 +32,7 @@ A responsive movie discovery web app built with HTML, CSS, and vanilla JavaScrip
 
 ---
 
-### ## 💻 Technologies Used
+ ## 💻 Technologies Used
 
 * **HTML5**
 * **CSS3** (Flexbox & Grid)
@@ -40,7 +42,7 @@ A responsive movie discovery web app built with HTML, CSS, and vanilla JavaScrip
 
 ---
 
-### ## 🛠️ Setup and Local Installation
+ ## 🛠️ Setup and Local Installation
 
 To run this project on your local machine, follow these steps:
 
@@ -66,6 +68,6 @@ To run this project on your local machine, follow these steps:
 
 ---
 
-### ## 📜 License
+ ## 📜 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
