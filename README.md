@@ -2,11 +2,12 @@
 
 A responsive web application for searching, discovering, and rating movies, built with modern front-end technologies. This project allows users to search for movies via the TMDb API, view detailed information, and save their own ratings and comments locally.
 
+
 ### 🚀 Live Demo
 
 You can access the live, deployed application here:
 
-**[https://your-live-demo-url.netlify.app/](https://your-live-demo-url.netlify.app/)** *(Note: Replace this with your actual Netlify/Vercel deployment link)*
+**[https://movie-review-rating-platform.netlify.app/](https://movie-review-rating-platform.netlify.app/)** 
 
 ---
 
@@ -76,3 +77,7 @@ To run this project locally, follow these steps:
     ```
 
 The application will now be running on `http://localhost:5173`.
+
+## 📄 License
+
+This project is licensed under the MIT License.
